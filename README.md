@@ -1,5 +1,8 @@
 ### Ola me bem vindo ao meu readme me chamo marcos.✋😀
 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-vinicius091195/)
+
+
 ![MarcosMvs GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosMvs&show_icons=true&theme=merko)
 
 ## Tecnologias que estou me aperfeiçoando

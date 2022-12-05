@@ -1,4 +1,4 @@
-### Ola me bem vindo ao meu readme me chamo marcos.✋😀
+### Ola seja bem vindo ao meu readme me chamo marcos.✋😀
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-vinicius091195/)
 
@@ -17,3 +17,7 @@
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
+
+Jamais desista dos seus sonhos, trabalhe duro, tenha dedicação que em uma hora vai dar certo. Deus em primeiro lugar.
+
+## Apaixonado por tecnologia.
